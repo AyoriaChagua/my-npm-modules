@@ -1,0 +1,11 @@
+{
+  "name": "tecsup-2023-tarea-ayoriach",
+  "version": "1.0.0",
+  "description": "This is my task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayoriachagua@gmail.com",
+  "license": "ISC"
+}
